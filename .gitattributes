@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
+# Normalize text files and preserve binary Unreal/game packages.
 * text=auto
+*.pak binary
+*.uasset binary
+*.uexp binary

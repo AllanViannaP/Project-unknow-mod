@@ -1,0 +1,9 @@
+*.rar
+*.zip
+*.exe
+*.bak
+*.log
+*.tmp
+Thumbs.db
+Desktop.ini
+.DS_Store
